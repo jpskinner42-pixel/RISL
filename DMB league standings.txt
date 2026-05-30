@@ -1,0 +1,88 @@
+                                    DMB league standings -- GBL                                     
+                                           Regular season                                           
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA  Mgn  Mgc 
+Southeast
+2025 Orlando Predators              36   16  .692       -    8-2   W1  wlwwlwwwww    281  200   81  104 
+2025 Miami Blaze                    29   23  .558       7    6-4   L2  llwwwwwllw    227  202   25  118 
+2025 Georgia Force                  24   23  .511   9 1/2    6-4   L1  lwwwwlwwll    241  210   31  123 
+2025 Carolina Cobras                18   31  .367  16 1/2    4-6   L2  llwwwllwll    203  261  -58  129 
+                                                                                                        
+Midwest
+2025 Wisconsin Windigo              26   25  .510       -    5-5   W2  wwllllwlww    224  245  -21  113 
+2025 St. Louis Battlehawks          24   24  .500     1/2    4-6   L4  llllwwllww    164  144   20  114 
+2025 Columbus Crew                  25   26  .490       1    6-4   W1  wllwwllwww    249  244    5  114 
+2025 Milwaukee Admirals             21   26  .447       3    3-7   L1  lwlllllwwl    215  231  -16  118 
+                                                                                                        
+Southwest
+2025 San Diego Mavericks            26   25  .510       -    5-5   W2  wwlwllwwll    230  226    4  110 
+2025 Los Angeles Galaxy             22   27  .449       3    4-6   L1  lwlllwlwlw    198  209  -11  116 
+2025 New Mexico Lobos               21   27  .438   3 1/2    3-7   W2  wwlllwllll    219  258  -39  117 
+2025 Long Beach Armada              20   31  .392       6    3-7   W1  wllllwwlll    186  247  -61  118 
+                                                                                                        
+Gulf Coast
+2025 Dallas Renegades               29   22  .569       -    6-4   L2  llwwwwwwll    269  206   63  111 
+2025 New Orleans Warriors           26   23  .531       2    7-3   W4  wwwwlllwww    210  252  -42  115 
+2025 Arizona Scorpions              27   24  .529       2    4-6   L1  lwlwlllwlw    234  218   16  114 
+2025 Nashville Venom                24   25  .490       4    6-4   W3  wwwllwllww    211  208    3  117 
+
+
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent        Mgc 
+2025 Orlando Predators              36   16  .692      na    8-2   W1  wlwwlwwwww        
+2025 Dallas Renegades               29   22  .569      na    6-4   L2  llwwwwwwll        
+2025 Wisconsin Windigo              26   25  .510      na    5-5   W2  wwllllwlww        
+2025 San Diego Mavericks            26   25  .510      na    5-5   W2  wwlwllwwll        
+2025 Miami Blaze                    29   23  .558       -    6-4   L2  llwwwwwllw    111 
+2025 New Orleans Warriors           26   23  .531   1 1/2    7-3   W4  wwwwlllwww    114 
+2025 Arizona Scorpions              27   24  .529   1 1/2    4-6   L1  lwlwlllwlw    113 
+2025 Georgia Force                  24   23  .511   2 1/2    6-4   L1  lwwwwlwwll    116 
+2025 St. Louis Battlehawks          24   24  .500       3    4-6   L4  llllwwllww    116 
+2025 Columbus Crew                  25   26  .490   3 1/2    6-4   W1  wllwwllwww    115 
+2025 Nashville Venom                24   25  .490   3 1/2    6-4   W3  wwwllwllww    116 
+2025 Los Angeles Galaxy             22   27  .449   5 1/2    4-6   L1  lwlllwlwlw    118 
+2025 Milwaukee Admirals             21   26  .447   5 1/2    3-7   L1  lwlllllwwl    119 
+2025 New Mexico Lobos               21   27  .438       6    3-7   W2  wwlllwllll    119 
+2025 Long Beach Armada              20   31  .392   8 1/2    3-7   W1  wllllwwlll    120 
+2025 Carolina Cobras                18   31  .367   9 1/2    4-6   L2  llwwwllwll    122 
+
+
+
+Year Team                           Home    Road   Grass    Turf   vsLHP   vsRHP    Div   InterLg 
+2025 Orlando Predators              16-9    20-7   33-16    3-0     12-2   24-14    5-3           
+2025 Dallas Renegades               17-8   12-14   28-19    1-3     4-7    25-15    3-5           
+2025 Wisconsin Windigo              16-9   10-16   23-24    3-1     3-5    23-20    5-3           
+2025 San Diego Mavericks           15-13   11-12   24-24    2-1     11-5   15-20    4-4           
+2025 Miami Blaze                   13-11   16-12   14-12   15-11    7-5    22-18    4-5           
+2025 New Orleans Warriors          12-13   14-10   24-21    2-2     10-6   16-17    4-4           
+2025 Arizona Scorpions             14-14   13-10    13-7   14-17    7-8    20-16    7-1           
+2025 Georgia Force                  14-9   10-14   23-20    1-3     4-6    20-17    5-2           
+2025 St. Louis Battlehawks         12-13   12-11   20-23    4-1     4-3    20-21    4-3           
+2025 Columbus Crew                  15-9   10-17   25-24    0-2     5-12   20-14    3-5           
+2025 Nashville Venom               10-15   14-10   22-24    2-1     6-6    18-19    1-5           
+2025 Los Angeles Galaxy            11-14   11-13   20-24    2-3     2-5    20-22    3-5           
+2025 Milwaukee Admirals             14-9    7-17   20-25    1-1     9-8    12-18    3-4           
+2025 New Mexico Lobos              11-14   10-13   20-26    1-1     6-9    15-18    6-2           
+2025 Long Beach Armada              8-15   12-16   20-29    0-2     3-6    17-25    3-5           
+2025 Carolina Cobras               11-14    7-17   17-28    1-3     5-9    13-22    2-6           
+                                    DMB league standings -- GBL                                     
+                                           Regular season                                           
+
+Year Team                          Lead7   Tied7   Trail7  1-run   Extra  
+2025 Orlando Predators              28-3    7-0     1-13    11-8    3-3   
+2025 Dallas Renegades               27-1    1-2     1-19    3-9     1-1   
+2025 Wisconsin Windigo              20-4    3-2     3-19    12-8    5-2   
+2025 San Diego Mavericks            19-3    3-5     4-17    11-6    5-2   
+2025 Miami Blaze                    24-2    3-4     2-17    6-8     2-3   
+2025 New Orleans Warriors           21-1    4-2     1-20    13-3    1-0   
+2025 Arizona Scorpions              21-3    4-3     2-18    5-7     4-3   
+2025 Georgia Force                  17-2    3-2     4-19    3-4     2-1   
+2025 St. Louis Battlehawks          22-1    1-4     1-19    2-7     1-4   
+2025 Columbus Crew                  16-3    5-4     4-19    6-7     4-2   
+2025 Nashville Venom                18-2    2-6     4-17    6-7     2-4   
+2025 Los Angeles Galaxy             18-1    1-6     3-20    6-11    1-3   
+2025 Milwaukee Admirals             13-0    6-3     2-23    9-8     3-1   
+2025 New Mexico Lobos               17-3    2-2     2-22    10-6    1-3   
+2025 Long Beach Armada              14-2    4-5     2-24    6-6     1-3   
+2025 Carolina Cobras                14-6    3-2     1-23    5-9     4-5   
+
